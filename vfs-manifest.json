@@ -1,0 +1,46 @@
+[
+  {
+    "path": "App.tsx",
+    "file": {
+      "file_name": "/mnt/data/src/App.tsx",
+      "storage_handle": "",
+      "storage_type": "BASE64"
+    }
+  },
+  {
+    "path": "assets/c563dfce690fdcdf-6517fc7eb0a2d4cd50a28f6e92cd0a9b.jpg",
+    "file": {
+      "file_name": "6517fc7eb0a2d4cd50a28f6e92cd0a9b.jpg",
+      "storage_handle": "",
+      "storage_type": "MANIFOLD",
+      "mime": "image/jpeg",
+      "href": "https://scontent.xx.fbcdn.net/m1/v/t6/AQMdA2-dN9JBUT2rarpInK2WFttP8mbTHLlhyGwp4LALbKyR57fSDAXSekJemYI40PFNYn6PISJUIT_0UfmGbY0-iVVQbO4EX35-chDn0cCjGKcQoVfKmE48NSxQ?ccb=10-5&oh=00_AQOGuyLs_YWbPebuKTtG4d9j6vwWAiFUE618pSkP1fKAcg&oe=6AE14D0D&_nc_sid=4ee932",
+      "source_identifiers": [
+        {
+          "type": "typed_fbid",
+          "value": {
+            "fbid": 1353509483367927,
+            "fbtype": 71334
+          }
+        },
+        {
+          "type": "url",
+          "value": "https://www.h.metaaiusercontent.com/app/maiwa-p-8388e62ecd32282416cf79fee702928b8401b9e3b8e0a628/actions"
+        },
+        {
+          "type": "url",
+          "value": "safetynet_input_media://7e8cf9fd27a74746a665e3da7066e513"
+        }
+      ],
+      "source_tools": [
+        "container.build_react_artifact",
+        "container.create",
+        "container.create_web_artifact_agent_stateful",
+        "container.edit_file",
+        "container.validate_react_artifact",
+        "container.view"
+      ],
+      "media_origin": "USER_UPLOAD"
+    }
+  }
+]
